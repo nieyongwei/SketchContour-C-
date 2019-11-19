@@ -13,6 +13,9 @@ This is the demo code of paper
 
 
 
-The code is test on Windows with Visual Studio 2019.<br>
+The code is test on Windows 10 with Visual Studio 2019.<br>
 To run the code, you should install OpenCV 4 and ANN from here https://www.cs.umd.edu/~mount/ANN/<br>
 
+Please cite our paper.
+
+Visit http://nieyongwei.net/ for more information.
