@@ -10,3 +10,8 @@ This is the demo code of paper
   publisher={IEEE}
 }
 
+
+
+The code is test on Windows with Visual Studio 2019.
+To run the code, you should install OpenCV 4 and ANN from here https://www.cs.umd.edu/~mount/ANN/
+
