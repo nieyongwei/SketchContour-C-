@@ -12,6 +12,9 @@ This is the demo code of paper
 }<br>
 
 
+![screenshot](https://github.com/nieyongwei/SketchContour-C-/blob/master/SketchContour-C%2B%2B/screen.png)
+
+
 
 The code is test on Windows 10 with Visual Studio 2019.<br>
 To run the code, you should install OpenCV 4 and ANN from here https://www.cs.umd.edu/~mount/ANN/<br>
