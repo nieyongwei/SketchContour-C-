@@ -3,16 +3,16 @@
 This is the demo code of paper
 ---
 
-@article{nie2019interactive,
-  title={Interactive Contour Extraction via Sketch-Alike Dense-Validation Optimization},
-  author={Nie, Yongwei and Cao, Xu and Li, Ping and Zhang, Qing and Zhang, Zhensong and Li, Guiqing and Sun, Hanqiu},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2019},
-  publisher={IEEE}
-}
+@article{nie2019interactive,<br>
+  title={Interactive Contour Extraction via Sketch-Alike Dense-Validation Optimization},<br>
+  author={Nie, Yongwei and Cao, Xu and Li, Ping and Zhang, Qing and Zhang, Zhensong and Li, Guiqing and Sun, Hanqiu},<br>
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},<br>
+  year={2019},<br>
+  publisher={IEEE}<br>
+}<br>
 
 
 
-The code is test on Windows with Visual Studio 2019.
-To run the code, you should install OpenCV 4 and ANN from here https://www.cs.umd.edu/~mount/ANN/
+The code is test on Windows with Visual Studio 2019.<br>
+To run the code, you should install OpenCV 4 and ANN from here https://www.cs.umd.edu/~mount/ANN/<br>
 
