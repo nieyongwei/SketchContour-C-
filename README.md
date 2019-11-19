@@ -1,6 +1,7 @@
 # SketchContour-C-
 
-This is the demo code of paper 
+This is the demo code of paper
+====
 
 @article{nie2019interactive,
   title={Interactive Contour Extraction via Sketch-Alike Dense-Validation Optimization},
